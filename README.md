@@ -1,4 +1,4 @@
-<h1 align="center">GAYATRI // JARVIS COMMAND DASHBOARD</h1>
+<h1 align="center">GAYATRI - OPERATING ALPHACENATAURIC </h1>
 
 <p align="center">
   <b>Flutter Developer · ML Engineer · AI Workflow Builder · Product Systems Operator</b>
